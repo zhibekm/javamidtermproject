@@ -1,0 +1,6 @@
+Name and Surname: zhibek
+Election place: bishkek
+Elector ID: 123336325
+District vote: lol
+Party vote: 88
+State: 555
